@@ -12,7 +12,7 @@ title                    : "Shuang-Rui Yu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Shuang-Rui Yu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shuangrui-yu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Shuangrui-Yu/shuangrui-yu.github.io"
 
@@ -27,12 +27,12 @@ author:
   bio              : "Postdoctoral Research Associate"
   location         : "Glasgow/UK"
   employer         : "University of Srathclyde"
-  uri              : https://shuangrui-yu.github.io/ # URL
+  uri              : # URL
   email            : "shuangrui.yu@strath.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=IGZ0qEEAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=IGZ0qEEAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8104-5187"
   semantic         : # URL
