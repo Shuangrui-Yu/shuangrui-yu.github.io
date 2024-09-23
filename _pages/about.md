@@ -20,6 +20,7 @@ My research interests include:
 •	Optimal control: Pontryagin’s Maximum Principle (PMP) & Linear-quadratic regulator (LQR).
 
 •	Discrete control: On-off control including latching and declutching control.
+
 •	Model predictive control: Neural network for the prediction of real-time control.
 
 Funding and Awards:
