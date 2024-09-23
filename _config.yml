@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shuang-Rui Yu / Personal Homepage"
+title                    : "Shuang-Rui Yu / 于双瑞"
 title_separator          : "-"
 name                     : &name "Shuang-Rui Yu"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "Shuangrui-Yu/shuangrui-yu.github.io"
 author:
   # Biographic information
   avatar           : "shuangruiyu3.png"
-  name             : "Shuang-Rui Yu (于双瑞)"
+  name             : "Shuang-Rui Yu"
   pronouns         : # example: "he/him"  
   bio              : "Postdoctoral Research Associate"
   location         : "Glasgow/UK"
