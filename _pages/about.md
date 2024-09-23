@@ -14,15 +14,20 @@ I am currently working in Hydrodynamics & Ocean Renewable Laboratory ([HOREL](ht
 My research interests include:
 ------
 •	Multibody hydrodynamics: The motion or power optimisation of connected floating bodies.
+
 •	Floating wind turbine: The wave-induced motion of large floating wind turbines.
+
 •	Optimal control: Pontryagin’s Maximum Principle (PMP) & Linear-quadratic regulator (LQR).
+
 •	Discrete control: On-off control including latching and declutching control.
 •	Model predictive control: Neural network for the prediction of real-time control.
 
 Funding and Awards:
 ------
 1. 2022.06: Best presenter of OE Session in Ocean Energy and Marine Transport (OEMT) Research Conference 2022.
+
 2. 2019.10~2022.10: John Anderson Research Award (JARA) Studentship of University of Strathclyde
+
 3. 2019.10~2022.10: China Scholarship Council (CSC) Scholarship
 
 My research interests include:
