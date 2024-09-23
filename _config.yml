@@ -21,7 +21,7 @@ repository               : "Shuangrui-Yu/shuangrui-yu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "shuangruiyu.png"
+  avatar           : "shuangruiyu.PNG"
   name             : "Shuang-Rui Yu (于双瑞)"
   pronouns         : # example: "he/him"  
   bio              : "Postdoctoral Research Associate"
