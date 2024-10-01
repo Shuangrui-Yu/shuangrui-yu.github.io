@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Naval Architecture, Marine, and Ocean Engineering, University of Strathclyde, 2024
+* M.S. in Mechanics, Harbin Engineering University, 2018
+* B.S. in Naval Architecture and Ocean Engineering, Huazhong University of Science and Technology, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024 - Spring 2025: Research Associate
+  * University of Strathclyde
+  * Duties included: Modelling and hydrodynamic analysis of offshore Hydrogen platform
+  * Supervisor: Dr Zhi-Ming Yuan 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023 - Summer 2024: Research Assistant
+  * University of Strathclyde
+  * Duties included: Modelling and hydrodynamic analysis of Hydrogen Offshore Transfer Buoy
+  * Supervisor: Dr Zhi-Ming Yuan 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding: MATLAB
+* Hydrodynamic analysis software
+  * SESAM
+  * STAR-CCM+
+  * FLUENT
+* CAD Modeling software
 
 Publications
 ======
