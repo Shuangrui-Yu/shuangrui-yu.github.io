@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2024-08-18
 venue: 'Ocean Engineering'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/Optimal declutching control of hinged multiple floating bodies.pdf'
 citation: 'Yu, S.R. (2009). &quot; Optimal declutching control of hinged multiple floating bodies.&quot; <i>Ocean Engineering</i>. 306(117992).'
 ---
 
