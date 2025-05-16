@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* Spring 2025 - Autumn 2026: Postdoctoral Research Associate (Onshore WEC)
+  * University of Manchester
+  * Duties included: Control-oriented modelling and HIL design of an onshore wave energy converter
+  * Supervisor: Prof Guang Li
+
 * Fall 2024 - Spring 2025: Research Associate
   * University of Strathclyde
   * Duties included: Modelling and hydrodynamic analysis of offshore Hydrogen platform
@@ -34,4 +39,7 @@ Skills
   * SESAM
   * STAR-CCM+
   * FLUENT
-* CAD Modeling software
+* CAD Modelling software
+  * Rhino
+  * SolidWorks
+  * UG NX
