@@ -23,10 +23,10 @@ My research interests include:
 
 •	Model predictive control: Neural network for the prediction of real-time control.
 
-Funding and Awards:
+Personal skills:
 ------
-1. 2022.06: Best presenter of OE Session in Ocean Energy and Marine Transport (OEMT) Research Conference 2022.
+1. Coding: MATLAB.
 
-2. 2019.10~2022.10: John Anderson Research Award (JARA) Studentship of University of Strathclyde
+2. Hydrodynamic analysis software: SESAM, STAR-CCM+, FLUENT.
 
-3. 2019.10~2022.10: China Scholarship Council (CSC) Scholarship
+3. CAD Modelling software: Rhino, SolidWorks, UG NX.
