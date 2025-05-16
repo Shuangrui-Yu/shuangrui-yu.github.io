@@ -3,7 +3,7 @@ title: "Motion Control of Floating Wind-Wave Energy Platforms"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper is about the control of a semi-submersible platform connected with a movable heave plate. Platform motion is reduced by actively tuning the interaction between the plate and the platform.'
 date: 2025-02-01
 venue: 'Marine Energy Research'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
