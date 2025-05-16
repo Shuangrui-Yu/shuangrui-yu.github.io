@@ -32,14 +32,8 @@ Work experience
   * Duties included: Modelling and hydrodynamic analysis of Hydrogen Offshore Transfer Buoy
   * Supervisor: Dr Zhi-Ming Yuan 
   
-Skills
+Funding and Awards
 ======
-* Coding: MATLAB
-* Hydrodynamic analysis software
-  * SESAM
-  * STAR-CCM+
-  * FLUENT
-* CAD Modelling software
-  * Rhino
-  * SolidWorks
-  * UG NX
+* 2022.06: Best presenter of OE Session in Ocean Energy and Marine Transport (OEMT) Research Conference 2022
+* 2019.10~2022.10: John Anderson Research Award (JARA) Studentship of University of Strathclyde
+* 2019.10~2022.10: China Scholarship Council (CSC) Scholarship
