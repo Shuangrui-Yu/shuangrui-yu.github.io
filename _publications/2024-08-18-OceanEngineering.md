@@ -3,7 +3,7 @@ title: "Optimal declutching control of hinged multiple floating bodies"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the control of multiple floating bodies, especially on systems connected by hinges. It explores the effects of control based on different optimisation objectives.'
 date: 2024-08-18
 venue: 'Ocean Engineering'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
