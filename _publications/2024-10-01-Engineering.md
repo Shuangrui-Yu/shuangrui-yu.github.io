@@ -3,7 +3,7 @@ title: "A New Web-type Concept of Floating Photovoltaic Farms in Open Sea Enviro
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper is about the concept of a spiderweb-like floating PV system. It explores modules connected with ropes and investigates their hydrodynamic behaviour.'
 date: 2024-10-01
 venue: 'Engineering -  Large Offshore Floating Structure'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
